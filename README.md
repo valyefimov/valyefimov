@@ -4,7 +4,7 @@
 * ⭐  Able to manage a large department
 
 
-I'm 33 and spent most of the life in IT. I'm self motivated, can solve complex tasks in a short time. I can provide you with a full set of services to help you realize your business idea, starting from business analysis through design and implementation phases to stabilization, deployment, and maintenance of the end product.
+I spent most of the life in IT. I'm self motivated, can solve complex tasks in a short time. I can provide you with a full set of services to help you realize your business idea, starting from business analysis through design and implementation phases to stabilization, deployment, and maintenance of the end product.
 
 
 I'm Fast-learner and can easily adjust to new programming languages and adapt to new environments. I have a passion for clean and neat web interfaces that produce seamless user experience.
