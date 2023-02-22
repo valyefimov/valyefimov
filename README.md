@@ -14,6 +14,7 @@ In the past two years my main roles were architecture planning, choosing the rig
 I like Agile and use it every day - iterations, scrum daily meetings, retrospectives.
 
 My experience and skill set coverage are like the following:
+
 **Frontend**
 * ✔️  Angular (all versions) / Electron / Vue / React / Svelte / Knockout / Socket.io / Gatsby / NextJS
 * ✔️ Cordova / Ionic / React Native / PhoneGap / Сapacitor
