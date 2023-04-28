@@ -1,5 +1,4 @@
 * ⭐  15 years of experience
-* ⭐  Have own IT company, but I like to program myself
 * ⭐  Developed more than 100 projects, one with a turnover of 10 billions
 * ⭐  Able to manage a large department
 
