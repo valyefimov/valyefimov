@@ -2,6 +2,13 @@
 * ⭐  Developed more than 100 projects, one with a turnover of 10 billions
 * ⭐  Able to manage a large department
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="GitHub Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=valyefimov&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img alt="Top Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valyefimov&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
 
 I spent most of the life in IT. I'm self motivated, can solve complex tasks in a short time. I can provide you with a full set of services to help you realize your business idea, starting from business analysis through design and implementation phases to stabilization, deployment, and maintenance of the end product.
 
