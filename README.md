@@ -10,7 +10,7 @@
 
 I'm a **seasoned full-stack architect** with 16+ years of hands-on experience turning complex business challenges into elegant, scalable solutions. From solo projects to leading large development teams, I've successfully delivered **100+ projects**, including high-load systems processing billions in transactions.
 
-I don't just write code—I architect solutions, optimize performance, lead teams, and deliver business value. Whether you need to build from scratch, scale an existing platform, or rescue a struggling project, I bring the expertise and passion to make it happen.
+I don't just write code, I architect solutions, optimize performance, lead teams, and deliver business value. Whether you need to build from scratch, scale an existing platform, or rescue a struggling project, I bring the expertise and passion to make it happen.
 
 ---
 
