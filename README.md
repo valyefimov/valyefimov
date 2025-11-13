@@ -8,7 +8,7 @@
 
 ## 👋 Hello! Welcome to My Profile
 
-I'm a **seasoned full-stack architect** with 15+ years of hands-on experience turning complex business challenges into elegant, scalable solutions. From solo projects to leading large development teams, I've successfully delivered **100+ projects**, including high-load systems processing billions in transactions.
+I'm a **seasoned full-stack architect** with 16+ years of hands-on experience turning complex business challenges into elegant, scalable solutions. From solo projects to leading large development teams, I've successfully delivered **100+ projects**, including high-load systems processing billions in transactions.
 
 I don't just write code—I architect solutions, optimize performance, lead teams, and deliver business value. Whether you need to build from scratch, scale an existing platform, or rescue a struggling project, I bring the expertise and passion to make it happen.
 
@@ -16,12 +16,12 @@ I don't just write code—I architect solutions, optimize performance, lead team
 
 ## 💎 Why Choose Me?
 
-✅ **Battle-Tested Experience** - 15 years solving real-world problems across diverse industries  
-✅ **Full-Cycle Expertise** - From business analysis & architecture to deployment & maintenance  
-✅ **High-Load Systems** - Proven track record with systems handling massive scale  
-✅ **Team Leadership** - Successfully managed and mentored development teams  
-✅ **Fast Learner** - Quick to adapt to new technologies and environments  
-✅ **Clean Code Advocate** - Passionate about maintainable, well-documented solutions  
+✅ **Battle-Tested Experience** - 15 years solving real-world problems across diverse industries
+✅ **Full-Cycle Expertise** - From business analysis & architecture to deployment & maintenance
+✅ **High-Load Systems** - Proven track record with systems handling massive scale
+✅ **Team Leadership** - Successfully managed and mentored development teams
+✅ **Fast Learner** - Quick to adapt to new technologies and environments
+✅ **Clean Code Advocate** - Passionate about maintainable, well-documented solutions
 ✅ **Agile & Scrum** - Daily standups, sprints, retrospectives—I live and breathe Agile
 
 ---
@@ -133,14 +133,14 @@ Translating business requirements into technical specifications and delivering s
 ## 🏆 Career Highlights
 
 ### **Recent Focus (2022-2024)**
-🎯 **Solution Architecture** - Designing scalable systems and selecting optimal tech stacks  
-🎯 **Technical Leadership** - Leading development teams and establishing engineering best practices  
+🎯 **Solution Architecture** - Designing scalable systems and selecting optimal tech stacks
+🎯 **Technical Leadership** - Leading development teams and establishing engineering best practices
 🎯 **High-Impact Delivery** - Shipping production-ready code while managing team velocity
 
 ### **Notable Achievements**
-💰 **Built a system processing 10B+ in transactions** - Architected and delivered a high-load platform  
-👥 **Led teams of 7+ developers** - Managed projects from inception to deployment  
-⚡ **100+ successful projects** - Consistent track record of on-time, high-quality delivery  
+💰 **Built a system processing 10B+ in transactions** - Architected and delivered a high-load platform
+👥 **Led teams of 7+ developers** - Managed projects from inception to deployment
+⚡ **100+ successful projects** - Consistent track record of on-time, high-quality delivery
 📈 **Performance optimization specialist** - Achieved dramatic speed improvements across multiple platforms
 
 ---
@@ -159,19 +159,19 @@ My love affair with technology started at age 14 when I built my first website. 
 
 ## 🤝 How I Work
 
-**🔄 Agile Methodology**  
+**🔄 Agile Methodology**
 Sprint planning, daily standups, retrospectives, and continuous iteration—Agile is my default mode.
 
-**💬 Clear Communication**  
+**💬 Clear Communication**
 Regular updates, transparent timelines, and proactive problem-solving. No surprises.
 
-**🎯 Results-Oriented**  
+**🎯 Results-Oriented**
 Focused on delivering business value, not just writing code. Your success is my success.
 
-**📖 Documentation First**  
+**📖 Documentation First**
 Clean code, comprehensive documentation, and knowledge transfer—I build for the long term.
 
-**🔍 Quality Assurance**  
+**🔍 Quality Assurance**
 Comprehensive testing, code reviews, and continuous integration ensure reliable deliverables.
 
 ---
@@ -187,15 +187,15 @@ Whether you're a startup with a bold vision, an enterprise needing to scale, or 
 - 👥 Leading development teams and establishing best practices
 - 🚀 Taking projects from concept to production
 
-**My promise:**  
+**My promise:**
 Fast response times, transparent communication, high-quality code, and solutions that exceed expectations.
 
 ---
 
 ## 📍 Location & Availability
 
-🌍 **Based in:** Montenegro  
-💼 **Available for:** Remote collaboration worldwide  
+🌍 **Based in:** Montenegro
+💼 **Available for:** Remote collaboration worldwide
 ⏰ **Timezone:** Flexible working hours to accommodate your schedule
 
 ---
@@ -204,8 +204,8 @@ Fast response times, transparent communication, high-quality code, and solutions
 
 Ready to discuss your project? I'm just a message away!
 
-**🚀 Available for immediate start**  
-**💼 Open to both short-term and long-term engagements**  
+**🚀 Available for immediate start**
+**💼 Open to both short-term and long-term engagements**
 **🌟 Committed to delivering excellence**
 
 ---
@@ -217,7 +217,7 @@ Ready to discuss your project? I'm just a message away!
 ---
 
 <div align="center">
-  
+
 **⭐ If you're looking for a developer who delivers—let's talk! ⭐**
 
 </div>
