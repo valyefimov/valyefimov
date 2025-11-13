@@ -1,6 +1,6 @@
 # 🚀 Valentyn Yefimov | Full-Stack Architect & Tech Lead
 
-[![Experience](https://img.shields.io/badge/Experience-15%2B%20Years-brightgreen?style=for-the-badge)](#)
+[![Experience](https://img.shields.io/badge/Experience-16%2B%20Years-brightgreen?style=for-the-badge)](#)
 [![Projects](https://img.shields.io/badge/Projects-100%2B%20Delivered-blue?style=for-the-badge)](#)
 [![High-Load](https://img.shields.io/badge/Scale-10B%2B%20Turnover-orange?style=for-the-badge)](#)
 
