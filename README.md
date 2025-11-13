@@ -1,4 +1,4 @@
-# 🚀 Valery Efimov | Full-Stack Architect & Tech Lead
+# 🚀 Valentyn Yefimov | Full-Stack Architect & Tech Lead
 
 [![Experience](https://img.shields.io/badge/Experience-15%2B%20Years-brightgreen?style=for-the-badge)](#)
 [![Projects](https://img.shields.io/badge/Projects-100%2B%20Delivered-blue?style=for-the-badge)](#)
