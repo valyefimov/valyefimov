@@ -29,7 +29,7 @@ I don't just write code, I architect solutions, optimize performance, lead teams
 ✅ **Clean Code Advocate** - Passionate about maintainable, well-documented solutions
 
 
-✅ **Agile & Scrum** - Daily standups, sprints, retrospectives—I live and breathe Agile
+✅ **Agile & Scrum** - Daily standups, sprints, retrospectives, I live and breathe Agile
 
 ---
 
@@ -45,7 +45,7 @@ Expert in identifying bottlenecks and implementing optimizations that dramatical
 Experience leading cross-functional teams, conducting code reviews, mentoring developers, and establishing best practices.
 
 ### 🔧 **Full-Stack Development**
-End-to-end development capabilities—from crafting beautiful, responsive UIs to building robust, secure backend systems.
+End-to-end development capabilities, from crafting beautiful, responsive UIs to building robust, secure backend systems.
 
 ### 📊 **Business Analysis**
 Translating business requirements into technical specifications and delivering solutions that drive measurable results.
@@ -167,7 +167,7 @@ My love affair with technology started at age 14 when I built my first website. 
 ## 🤝 How I Work
 
 **🔄 Agile Methodology**
-Sprint planning, daily standups, retrospectives, and continuous iteration—Agile is my default mode.
+Sprint planning, daily standups, retrospectives, and continuous iteration, Agile is my default mode.
 
 **💬 Clear Communication**
 Regular updates, transparent timelines, and proactive problem-solving. No surprises.
@@ -176,7 +176,7 @@ Regular updates, transparent timelines, and proactive problem-solving. No surpri
 Focused on delivering business value, not just writing code. Your success is my success.
 
 **📖 Documentation First**
-Clean code, comprehensive documentation, and knowledge transfer—I build for the long term.
+Clean code, comprehensive documentation, and knowledge transfer, I build for the long term.
 
 **🔍 Quality Assurance**
 Comprehensive testing, code reviews, and continuous integration ensure reliable deliverables.
@@ -202,7 +202,9 @@ Fast response times, transparent communication, high-quality code, and solutions
 ## 📍 Location & Availability
 
 🌍 **Based in:** Montenegro
+
 💼 **Available for:** Remote collaboration worldwide
+
 ⏰ **Timezone:** Flexible working hours to accommodate your schedule
 
 ---
@@ -212,7 +214,9 @@ Fast response times, transparent communication, high-quality code, and solutions
 Ready to discuss your project? I'm just a message away!
 
 **🚀 Available for immediate start**
+
 **💼 Open to both short-term and long-term engagements**
+
 **🌟 Committed to delivering excellence**
 
 ---
@@ -225,6 +229,6 @@ Ready to discuss your project? I'm just a message away!
 
 <div align="center">
 
-**⭐ If you're looking for a developer who delivers—let's talk! ⭐**
+**⭐ If you're looking for a developer who delivers, let's talk! ⭐**
 
 </div>
