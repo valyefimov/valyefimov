@@ -17,11 +17,18 @@ I don't just write code, I architect solutions, optimize performance, lead teams
 ## 💎 Why Choose Me?
 
 ✅ **Battle-Tested Experience** - 15 years solving real-world problems across diverse industries
+
 ✅ **Full-Cycle Expertise** - From business analysis & architecture to deployment & maintenance
+
 ✅ **High-Load Systems** - Proven track record with systems handling massive scale
+
 ✅ **Team Leadership** - Successfully managed and mentored development teams
+
 ✅ **Fast Learner** - Quick to adapt to new technologies and environments
+
 ✅ **Clean Code Advocate** - Passionate about maintainable, well-documented solutions
+
+
 ✅ **Agile & Scrum** - Daily standups, sprints, retrospectives—I live and breathe Agile
 
 ---
