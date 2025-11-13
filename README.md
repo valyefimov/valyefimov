@@ -146,8 +146,11 @@ Translating business requirements into technical specifications and delivering s
 
 ### **Notable Achievements**
 💰 **Built a system processing 10B+ in transactions** - Architected and delivered a high-load platform
+
 👥 **Led teams of 7+ developers** - Managed projects from inception to deployment
+
 ⚡ **100+ successful projects** - Consistent track record of on-time, high-quality delivery
+
 📈 **Performance optimization specialist** - Achieved dramatic speed improvements across multiple platforms
 
 ---
