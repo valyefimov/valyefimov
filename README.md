@@ -16,7 +16,7 @@ I don't just write code, I architect solutions, optimize performance, lead teams
 
 ## 💎 Why Choose Me?
 
-✅ **Battle-Tested Experience** - 15 years solving real-world problems across diverse industries
+✅ **Battle-Tested Experience** - 16 years solving real-world problems across diverse industries
 
 ✅ **Full-Cycle Expertise** - From business analysis & architecture to deployment & maintenance
 
