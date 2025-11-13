@@ -141,7 +141,9 @@ Translating business requirements into technical specifications and delivering s
 
 ### **Recent Focus (2022-2024)**
 🎯 **Solution Architecture** - Designing scalable systems and selecting optimal tech stacks
+
 🎯 **Technical Leadership** - Leading development teams and establishing engineering best practices
+
 🎯 **High-Impact Delivery** - Shipping production-ready code while managing team velocity
 
 ### **Notable Achievements**
