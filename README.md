@@ -28,8 +28,8 @@ Full-Stack Engineer and Tech Lead (16+ years). I build and scale web products wi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valyefimov&show_icons=true&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valyefimov&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=valyefimov&show_icons=true&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=valyefimov&layout=compact&hide_border=true)
 
 ## Connect
 
