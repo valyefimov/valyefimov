@@ -72,8 +72,8 @@ Jest, RTL, Playwright, Cypress, GitHub Actions, CircleCI, Docker, Sentry, Logz.i
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valyefimov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valyefimov&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=valyefimov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=valyefimov&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" width="40%" />
 </div>
 
 <div align="center">
@@ -81,6 +81,7 @@ Jest, RTL, Playwright, Cypress, GitHub Actions, CircleCI, Docker, Sentry, Logz.i
 </div>
 
 ---
+
 
 ## Collaboration
 
