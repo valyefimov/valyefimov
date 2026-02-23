@@ -37,7 +37,7 @@
 ## Core Stack (2026 Ready)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,tailwind,postgres,mongodb,redis,aws,gcp,azure,vercel,docker,git,playwright,cypress,jest" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,tailwind,postgres,mongodb,redis,aws,gcp,azure,vercel,docker,git,github,cypress,jest" alt="Core Stack" />
 </div>
 
 ### Languages & Runtime
