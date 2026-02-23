@@ -2,10 +2,8 @@
 
 Full-Stack Engineer  
 Ukrainian, based in Montenegro (Budva)  
-+380 (95) 407-1641  
-GitHub: [github.com/valyefimov](https://github.com/valyefimov)  
 LinkedIn: [linkedin.com/in/vyefimov](https://linkedin.com/in/vyefimov)  
-Upwork: [upwork.com/freelancers/valentyn](https://upwork.com/freelancers/valentyn) - Top Rated Plus · 100% JSS · $1M+ earned · 111 jobs  
+Website: [http://yefimov.tech/](http://yefimov.tech/)
 Email: [val@yefimov.tech](mailto:val@yefimov.tech)
 
 ## ABOUT
