@@ -4,11 +4,12 @@ Full-Stack Engineer
 Ukrainian, based in Montenegro (Budva)  
 LinkedIn: [linkedin.com/in/vyefimov](https://linkedin.com/in/vyefimov)  
 Website: [http://yefimov.tech/](http://yefimov.tech/)
+
 Email: [val@yefimov.tech](mailto:val@yefimov.tech)
 
 ## ABOUT
 
-Senior Full-Stack Engineer with 16+ years of experience building high-performance web systems from MVP to enterprise scale. Specializing in React, Next.js, Angular, and Node.js, with deep expertise in scalable SaaS architecture, AI-powered products, and browser extensions. Led engineering teams of up to 15 engineers, delivered mission-critical platforms through full product lifecycle. Recognised as Top Rated Plus (top 1%) on Upwork with 100% Job Success Score across 111 contracts and $1M+ in earnings. Open to remote opportunities worldwide.
+Senior Full-Stack Engineer with 16+ years of experience building high-performance web systems from MVP to enterprise scale. Specializing in React, Next.js, Angular, and Node.js, with deep expertise in scalable SaaS architecture, AI-powered products, and browser extensions. Led engineering teams of up to 15 engineers, delivered mission-critical platforms through full product lifecycle. Open to remote opportunities worldwide.
 
 ## SKILLS
 
