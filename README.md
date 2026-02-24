@@ -81,13 +81,3 @@ Jest, RTL, Playwright, Cypress, GitHub Actions, CircleCI, Docker, Sentry, Logz.i
 </div>
 
 ---
-
-
-## Collaboration
-
-If you are building a high-load SaaS, AI-powered workflow, extension platform, or complex migration project, let's connect.
-
-- Portfolio: [yefimov.tech](https://yefimov.tech/)
-- Email: [val@yefimov.tech](mailto:val@yefimov.tech)
-- LinkedIn: [linkedin.com/in/valyefimov](https://www.linkedin.com/in/valyefimov/)
-- Book a call: [calendly.com/valyefimov/15min](https://calendly.com/valyefimov/15min)
