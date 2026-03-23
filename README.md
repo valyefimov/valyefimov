@@ -20,6 +20,9 @@
   <a href="mailto:val@yefimov.tech">
     <img src="https://img.shields.io/badge/Email-val%40yefimov.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://youtube.com/shorts/FxDm5Lhsz1Q" target="_blank">
+    <img src="https://img.shields.io/badge/Intro_Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intro Video" />
+  </a>
   <a href="https://calendly.com/valyefimov/15min" target="_blank">
     <img src="https://img.shields.io/badge/Book_a_Call-15_min-00D4FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call" />
   </a>
