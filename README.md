@@ -29,9 +29,11 @@ My work spans healthcare browser extensions, digital insurance, developer tools 
 | Project | What it does | Explore |
 | :--- | :--- | :--- |
 | **[react-perf-hooks](https://github.com/valyefimov/react-perf-hooks)** | TypeScript-first React hooks for render diagnostics, performance profiling and web-vitals measurement. | [Documentation & examples](https://valyefimov.github.io/react-perf-hooks/) |
+| **[vt-helper](https://github.com/valyefimov/vt-helper)** | Framework-agnostic View Transitions helper with browser fallbacks and multi-step sequencing. | [Interactive examples](https://valyefimov.github.io/vt-helper/) |
+| **[TypeKnight](https://github.com/valyefimov/type-knight)** | TypeScript learning game with an in-browser compiler and challenges from type-challenges. | [Play the demo](https://type-knight.yefimov.tech/) |
+| **[Comic Grid Studio / Bento Grid](https://github.com/valyefimov/bento-grid)** | Interactive CSS Grid learning through comic layouts, built with SvelteKit and TypeScript. | [Try the demo](https://bento-grid.yefimov.tech/en/) |
 | **[chakra-ui3-tour](https://github.com/valyefimov/chakra-ui3-tour)** | Composable onboarding tours for Chakra UI v3, with spotlight overlays and configurable steps. | [Source & usage](https://github.com/valyefimov/chakra-ui3-tour#readme) |
 | **[string-best-match](https://github.com/valyefimov/string-best-match)** | Finds the longest shared contiguous sequence between token arrays using rolling hashes and binary search. | [API & examples](https://github.com/valyefimov/string-best-match#readme) |
-| **[Chakra UI v3 Date Picker](https://github.com/valyefimov/chakra-ui3-datapicker)** | Composable date and range selection with TypeScript hooks and Chakra styling. **In active development.** | [Source & usage](https://github.com/valyefimov/chakra-ui3-datapicker#readme) |
 
 ## Tools I work with
 
