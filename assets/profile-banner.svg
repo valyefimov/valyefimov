@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Valentyn Yefimov — Staff Software Engineer</title>
+  <desc id="desc">Frontend architecture, performance and full-stack delivery. React, Next.js, Angular, TypeScript and Node.js. Budapest, remote and B2B contracts.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263343" stroke-width="0.7"/></pattern>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#182635"/><stop offset="1" stop-color="#111922"/></linearGradient>
+  </defs>
+  <rect width="1280" height="440" rx="18" fill="#101820"/>
+  <rect x="822" width="458" height="440" fill="url(#grid)"/>
+  <path d="M52 51h38" stroke="#67ACFF" stroke-width="4"/>
+  <text x="106" y="58" font-family="monospace" font-size="15" letter-spacing="2" fill="#A7B6C6">YEFIMOV.TECH / ENGINEERING</text>
+  <text x="52" y="137" font-family="Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2" fill="#F4F7FC">Valentyn Yefimov</text>
+  <text x="54" y="184" font-family="Arial, sans-serif" font-size="27" fill="#67ACFF">Staff Software Engineer</text>
+  <text x="54" y="242" font-family="Arial, sans-serif" font-size="24" fill="#DFE6EF">Frontend architecture. Measurable performance.</text>
+  <text x="54" y="277" font-family="Arial, sans-serif" font-size="24" fill="#DFE6EF">Full-stack delivery.</text>
+  <text x="54" y="328" font-family="monospace" font-size="16" fill="#A7B6C6">React / Next.js / Angular / TypeScript / Node.js</text>
+  <path d="M54 360H735" stroke="#2C3C4C"/>
+  <text x="54" y="393" font-family="Arial, sans-serif" font-size="17" fill="#A7B6C6">16+ years building products</text>
+  <text x="387" y="393" font-family="Arial, sans-serif" font-size="17" fill="#A7B6C6">Budapest · Remote · B2B contracts</text>
+  <g transform="translate(854 64)">
+    <rect width="370" height="310" rx="12" fill="url(#panel)" stroke="#34475B"/>
+    <text x="25" y="39" font-family="monospace" font-size="13" letter-spacing="1.2" fill="#A7B6C6">PROFILE → UNDERSTAND → IMPROVE</text>
+    <path d="M24 58H346" stroke="#34475B"/>
+    <g fill="none" stroke="#67ACFF" stroke-width="2"><path d="M185 114V138M81 138H289M81 138V164M185 138V164M289 138V164"/></g>
+    <rect x="128" y="80" width="114" height="34" rx="5" fill="#254768"/>
+    <text x="185" y="102" text-anchor="middle" font-family="monospace" font-size="13" fill="#F4F7FC">Product</text>
+    <g fill="#192F43" stroke="#406386"><rect x="29" y="164" width="104" height="34" rx="5"/><rect x="139" y="164" width="92" height="34" rx="5"/><rect x="237" y="164" width="104" height="34" rx="5"/></g>
+    <g font-family="monospace" font-size="12" text-anchor="middle" fill="#DCEAFF"><text x="81" y="186">Interface</text><text x="185" y="186">API</text><text x="289" y="186">Data</text></g>
+    <text x="25" y="234" font-family="monospace" font-size="12" fill="#A7B6C6">RENDER TRACE / ILLUSTRATIVE</text>
+    <g fill="#426888"><rect x="25" y="251" width="61" height="18" rx="2"/><rect x="89" y="251" width="99" height="18" rx="2"/><rect x="191" y="251" width="44" height="18" rx="2"/></g>
+    <g fill="#67ACFF"><rect x="25" y="273" width="34" height="9" rx="2"/><rect x="62" y="273" width="56" height="9" rx="2"/><rect x="121" y="273" width="28" height="9" rx="2"/></g>
+  </g>
+</svg>
