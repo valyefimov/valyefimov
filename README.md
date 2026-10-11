@@ -1,86 +1,57 @@
-# Valentyn Yefimov - Senior Full-Stack Engineer
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3800&pause=900&color=00D4FF&center=true&vCenter=true&width=860&lines=Valentyn+Yefimov;Senior+Full-Stack+Engineer;16%2B+Years+Building+Scalable+Systems;React+%2F+Next.js+%2F+Node.js+%2F+AI+Integrations" alt="Typing Header" />
-</div>
-
 <p align="center">
-  Senior Full-Stack Engineer from Ukraine, based in <strong>Budva, Montenegro</strong>.<br />
-  Building high-performance products from MVP to enterprise scale.<br />
-  Open to remote worldwide, and ready to fly in for key product and architecture sessions.
+  <img src="./assets/profile-banner.svg" width="100%" alt="Valentyn Yefimov — Staff Software Engineer. Frontend architecture, performance and full-stack delivery. Budapest · Remote · B2B contracts." />
 </p>
 
 <p align="center">
-  <a href="https://yefimov.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-yefimov.tech-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/valyefimov/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:val@yefimov.tech">
-    <img src="https://img.shields.io/badge/Email-val%40yefimov.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://youtube.com/shorts/FxDm5Lhsz1Q" target="_blank">
-    <img src="https://img.shields.io/badge/Intro_Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intro Video" />
-  </a>
-  <a href="https://calendly.com/valyefimov/15min" target="_blank">
-    <img src="https://img.shields.io/badge/Book_a_Call-15_min-00D4FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call" />
-  </a>
+  <a href="https://yefimov.tech/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/valyefimov/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@valyefimov">YouTube</a> ·
+  <a href="mailto:val@yefimov.tech">Let's talk</a>
 </p>
 
----
+## Building products that stay fast as they grow
 
-## Positioning
+I'm **Valentyn**, a Staff Software Engineer based in **Budapest, Hungary**, with **16+ years** in product engineering. I work across frontend architecture, performance and full-stack delivery, and have led teams of up to **10 engineers**.
 
-- 16+ years in product engineering, delivery, and architecture.
-- Frontend + backend + platform ownership with strong execution speed.
-- Led teams up to 15 engineers and collaborated in organizations with 400+ developers.
-- AI-assisted prototyping only. Final architecture, security, performance tuning, and production code: 100% human.
+My work spans healthcare browser extensions, digital insurance, developer tools and AI-assisted workflows. I stay hands-on: architecture decisions, reusable components, backend integrations, profiling and automated testing.
 
-## Core Stack (2026 Ready)
+**Open to freelance and B2B contracts, remote work and opportunities in Budapest.**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,tailwind,postgres,mongodb,redis,aws,gcp,azure,vercel,docker,git,github,cypress,jest" alt="Core Stack" />
-</div>
+## Selected engineering work
 
-### Languages & Runtime
-TypeScript, JavaScript, Node.js, PHP, Go
+- **Healthcare MVP → funded product.** Built Platflow's initial Chrome/Edge extension MVP in one week; the company subsequently secured investment. Developed patient-information workflows, authentication and an embedded OpenAI assistant.
+- **Insurance platform ownership.** Owned frontend architecture and delivery at Dinghy, including a configurable, rule-based form engine for insurance questionnaires and policy purchasing.
+- **Performance with a clear baseline.** At Dev-Pro, reduced the SQL query count for one operation from approximately **1,300 to 25**. At Merly, improved Next.js rendering and data fetching for code views displaying **1,000+ lines**.
+- **AI requirements & planning assistant.** Built a private project with **Vercel AI SDK, OpenAI and Anthropic**: configurable prompts, model switching, file uploads and a guided chat workflow generating epics, user stories, tasks and test cases, structured for use in Jira and Trello.
 
-### Frontend
-React, Next.js (App Router, SSR/SSG), Angular, Tailwind CSS, MUI, Chakra UI, Framer Motion, styled-components
+## Open-source projects
 
-### Backend & Architecture
-NestJS, Express, REST, GraphQL, RBAC, SSO, multi-tenant SaaS, security hardening, high-load optimization
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **[react-perf-hooks](https://github.com/valyefimov/react-perf-hooks)** | TypeScript-first React hooks for render diagnostics, performance profiling and web-vitals measurement. | [Documentation & examples](https://valyefimov.github.io/react-perf-hooks/) |
+| **[chakra-ui3-tour](https://github.com/valyefimov/chakra-ui3-tour)** | Composable onboarding tours for Chakra UI v3, with spotlight overlays and configurable steps. | [Source & usage](https://github.com/valyefimov/chakra-ui3-tour#readme) |
+| **[string-best-match](https://github.com/valyefimov/string-best-match)** | Finds the longest shared contiguous sequence between token arrays using rolling hashes and binary search. | [API & examples](https://github.com/valyefimov/string-best-match#readme) |
+| **[Chakra UI v3 Date Picker](https://github.com/valyefimov/chakra-ui3-datapicker)** | Composable date and range selection with TypeScript hooks and Chakra styling. **In active development.** | [Source & usage](https://github.com/valyefimov/chakra-ui3-datapicker#readme) |
 
-### Databases
-PostgreSQL, MySQL, MongoDB, Redis, SQLite, Supabase, Firebase
+## Tools I work with
 
-### AI, Automation, Extensions
-OpenAI, Anthropic, Gemini, Vercel AI SDK, tool-calling, Chrome/Edge extensions (MV3), Web3/smart contracts
+| Area | Core technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, RxJS, NgRx, Redux Toolkit, Chakra UI, styled-components |
+| **Backend & data** | Node.js, NestJS, REST, GraphQL, PostgreSQL, MySQL, MongoDB, Firestore, PHP |
+| **Testing** | Playwright, Vitest, Jest, unit, integration and end-to-end testing |
+| **AI & extensions** | Vercel AI SDK, OpenAI, Anthropic, Chrome/Edge extensions, Manifest V3, Plasmo |
+| **Architecture & delivery** | Performance profiling, SQL optimization, shared libraries, Auth0, SSO, role-based access control, CI/CD, mentoring |
 
-### Testing & Delivery
-Jest, RTL, Playwright, Cypress, GitHub Actions, CircleCI, Docker, Sentry, Logz.io
+<details>
+<summary><strong>Additional implementation experience</strong></summary>
 
----
+I've also implemented backend components in **Go** and a **Ruby proxy layer**. These are supporting skills; my primary expertise is the JavaScript/TypeScript ecosystem.
 
-## Engineering Outcomes
+</details>
 
-- High-load backend pipelines processing 1M+ records/day.
-- Large data platforms and production clusters beyond 60TB.
-- Enterprise SaaS modules with strong reliability and UX standards.
-- Browser extension products with embedded AI assistants.
+## Work with me
 
----
+I can help with frontend architecture, React/Next.js performance, browser extensions, AI integrations and full-stack product delivery.
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=valyefimov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=valyefimov&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" width="40%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=valyefimov&hide_border=true&theme=transparent" alt="Streak Stats" />
-</div>
-
----
+**[Explore my work](https://yefimov.tech/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/valyefimov/)** · **[Email me](mailto:val@yefimov.tech)**
